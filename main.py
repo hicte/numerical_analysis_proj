@@ -1,6 +1,6 @@
-from numerical_analysis_alghorithms import bisection_method
-from numerical_analysis_alghorithms import false_position_method
-from numerical_analysis_alghorithms import secant_method
+from alghorithms import bisection_method
+from alghorithms import false_position_method
+from alghorithms import secant_method
 
 while True:
     print('\nChoose an alghorithm (0 for quit):')
